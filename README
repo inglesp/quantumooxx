@@ -3,3 +3,7 @@ quantumoox
 Quantum Noughts and Crosses.
 
 http://en.wikipedia.org/wiki/Quantum_tic_tac_toe
+
+To play, run 'python quantumoox.py'.
+
+Note to future employers: this code is very much 'dojo quality'.  That is, poorly commented, bereft of tests, and was mostly written under the influence of my father in law's Bloody Maries.
